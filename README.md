@@ -13,7 +13,7 @@
 - 🤝 I’m looking for help with **Frontend projects**
 - 👨‍💻 All of my projects are available at [https://github.com/sammyrincon](https://github.com/sammyrincon)
 - 📫 How to reach me **sammyrincon12@gmail.com**
-- ⚡ Fun fact **I am very passionate about what I like**
+- ⚡ Fun fact **I study computer science aiming either for cybersecurity or web dev**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
