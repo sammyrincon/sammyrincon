@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Samuel Rincón</h1>
-<h3 align="center">A passionate fullstack software engineer</h3>
+<h1 align="center">Hi, I'm Samuel Rincón</h1>
+<h3 align="center">Computer engineer in process</h3>
 
 <!-- GIF alineado a la derecha -->
 <img align="right" alt="digital marketing" width="400" src="https://github.com/sammyrincon/sammyrincon/blob/main/avento.gif?raw=true"> <!-- Enlace directo al GIF -->
@@ -7,13 +7,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sammyrincon&label=Profile%20views&color=0e75b6&style=flat" alt="sammyrincon" /> </p>
 
-- 🔭 I’m currently working on **learning JavaScript**
-- 🌱 I’m currently learning **CSS and HTML**
-- 👯 I’m looking to collaborate on **FullStack projects**
-- 🤝 I’m looking for help with **Frontend projects**
-- 👨‍💻 All of my projects are available at [https://github.com/sammyrincon](https://github.com/sammyrincon)
-- 📫 How to reach me **sammyrincon12@gmail.com**
-- ⚡ Fun fact **I study computer science aiming either for cybersecurity or web dev**
+-  I’m currently working on **modules connected to a data base**
+-  I’m currently learning **SQL, C and WSL**
+-  I’m looking to collaborate on **FullStack projects**
+-  I’m looking to mainly network but also learn
+-  All of my projects are available at [https://github.com/sammyrincon](https://github.com/sammyrincon)
+-  Reach me **sammyrincon12@gmail.com**
+-  Fun fact **studying computer engineering aiming towards machine learning **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
